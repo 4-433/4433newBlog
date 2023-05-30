@@ -35,7 +35,7 @@
     </div>
     <div class="mouse-box" :style="{ 'background-color': color }"></div>
     <div class="mouse-border" :style="{ 'border-color': color }"></div>
-    <audio src="http://music.163.com/song/media/outer/url?id=1327341487.mp3" loop autoplay ref="au"></audio>
+    <audio src="http://music.163.com/song/media/outer/url?id=1378563399.mp3" loop autoplay ref="au"></audio>
   </div>
 </template>
 
